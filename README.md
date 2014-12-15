@@ -1,6 +1,8 @@
 Asynchronous Http Client for Android
 ====================================
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/23lab/android-async-http?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Travis CI state : [![Build Status](https://travis-ci.org/loopj/android-async-http.png?branch=master)](https://travis-ci.org/loopj/android-async-http)
 
 An asynchronous, callback-based Http client for Android built on top of Apache's [HttpClient](http://hc.apache.org/httpcomponents-client-ga/) libraries.
